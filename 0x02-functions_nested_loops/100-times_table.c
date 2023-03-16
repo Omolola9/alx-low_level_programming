@@ -2,6 +2,7 @@
 
 /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 * _mul - print a digit of mul
 * @mul: multiplication comparator.
 */
@@ -37,11 +38,16 @@ _putchar(mul % 10 + '0');
 * @n: munber of table
 */
 =======
+=======
+>>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
  * print_times_table - Prints a multiplication table up to param
  * @n: The number to be treated
  *
  * Return: Number matrix
  */
+<<<<<<< HEAD
+>>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
+=======
 >>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
 void print_times_table(int n)
 {
@@ -81,6 +87,9 @@ void print_times_table(int n)
 	}
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+>>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
 =======
 >>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f

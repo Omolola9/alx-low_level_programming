@@ -2,13 +2,19 @@
 
 /**
 <<<<<<< HEAD
+<<<<<<< HEAD
  * main - first 98 Fibonacci numbers
  * Return: 0
 =======
+=======
+>>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
  * main - finds and prints the first 98 Fibonacci numbers,
  * starting with 1 and 2
  * followed by a new line
  * Return: ALways 0 (Success)
+<<<<<<< HEAD
+>>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
+=======
 >>>>>>> f8b892cdd3a5366db2f708542bf8c959113e5d3f
  */
 int main(void)
